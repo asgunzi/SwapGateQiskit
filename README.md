@@ -97,5 +97,5 @@ A matriz do circuito, resultante do modelo:
 
 Veja também:
 
-Lembrei do texto [Reflexões sobra a teoria da reflexidade de George Soros](https://ideiasesquecidas.com/2016/06/14/reflexoes-sobre-a-teoria-da-reflexividade/). Nenhuma relação direta com o conteúdo aqui, mas é bastante interessante.
+Lembrei do texto [Reflexões sobre a teoria da reflexidade de George Soros](https://ideiasesquecidas.com/2016/06/14/reflexoes-sobre-a-teoria-da-reflexividade/). Nenhuma relação direta com o conteúdo aqui, mas é bastante interessante.
 
